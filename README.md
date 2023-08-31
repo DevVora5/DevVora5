@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dev Vora</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a technology enthusiast and business management enthusiast based in Mumbai, Maharashtra, India. I'm a passionate individual who loves technology and business management. I'm currently pursuing my Master of Business Administration in Technology Management from NMIMS and have earned certifications in various fields like Tableau, SQL, Python, problem-solving, and Android app development.
+
+I've had the opportunity to gain leadership and problem-solving skills through my experience as an Executive at Alumni Connect MPSTME and Google Developer Student Club - NMIMS MPSTME. At Alumni Connect, I coordinated events and activities for alumni, implemented marketing strategies, and collaborated with the team to enhance overall engagement. At Google Developer Student Club, I organized technology education events and workshops for students, and led a team of developers in creating a mobile application using Android Studio.
+
+Besides my technical skills, I'm a compassionate and empathetic individual. I've also worked as a Social Care Worker at F. S. Parukh Dharamshala, a special home for the elderly. My time spent as a Social Care Worker at F. S. Parukh Dharamshala was truly a transformative experience. It helped me develop strong communication skills and gain a new perspective on life, especially when interacting with the elderly members of society. I believe these skills have helped me become an empathetic and compassionate person.
+
+In addition, I have the ability to provide constructive feedback and lead a team effectively, which are skills that I have honed through my experiences as an Executive at Alumni Connect MPSTME and Google Developer Student Club - NMIMS MPSTME. I'm proactive and ambitious, and committed to achieving success and creating a positive impact. I'm passionate about using my abilities and expertise to make a positive difference in the world.</h3>
 
 - 🔭 I’m currently working on **Stock Matrix - Stock Market Simulator**
 
