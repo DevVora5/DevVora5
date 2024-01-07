@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Vora</h1>
-<h3 align="justify">I'm a technology enthusiast and business management enthusiast based in Mumbai, Maharashtra, India. I'm a passionate individual who loves technology and business management. I'm currently pursuing my Master of Business Administration in Technology Management from NMIMS and have earned certifications in various fields like Tableau, SQL, Python, problem-solving, and Android app development.
-
+<h3 align="justify">
+I'm a technology enthusiast and business management enthusiast based in Mumbai, Maharashtra, India. I'm a passionate individual who loves technology and business management. I'm currently pursuing my Master of Business Administration in Technology Management from NMIMS and have earned certifications in various fields like Tableau, SQL, Python, problem-solving, and Android app development.
+<br>
 I've had the opportunity to gain leadership and problem-solving skills through my experience as an Executive at Alumni Connect MPSTME and Google Developer Student Club - NMIMS MPSTME. At Alumni Connect, I coordinated events and activities for alumni, implemented marketing strategies, and collaborated with the team to enhance overall engagement. At Google Developer Student Club, I organized technology education events and workshops for students, and led a team of developers in creating a mobile application using Android Studio.
 
 Besides my technical skills, I'm a compassionate and empathetic individual. I've also worked as a Social Care Worker at F. S. Parukh Dharamshala, a special home for the elderly. My time spent as a Social Care Worker at F. S. Parukh Dharamshala was truly a transformative experience. It helped me develop strong communication skills and gain a new perspective on life, especially when interacting with the elderly members of society. I believe these skills have helped me become an empathetic and compassionate person.
